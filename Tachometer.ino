@@ -1,4 +1,4 @@
-#include "SSD1306Wire.h"
+#include "SSD1306Wire.h" //https://github.com/ThingPulse/esp8266-oled-ssd1306
 SSD1306Wire display(0x3c, 4, 5, GEOMETRY_128_32); //DISPLAY: GPIO4, GPIO5 (NodeMCU - D1, D2)
 
 unsigned long lastflash;
