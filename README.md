@@ -1,6 +1,7 @@
 # Tachometer ESP8266 
 
 ### Conponent
+- ESP8266 (NodeMCU)
 - Display SSD1306
 - IR Infrared sensor
 
