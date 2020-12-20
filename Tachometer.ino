@@ -15,7 +15,7 @@ display.init();
 display.flipScreenVertically();
 display.setFont(ArialMT_Plain_16);
 
-// Sensor
+// IR Infrared sensor
 attachInterrupt(0,sens,RISING); //SENSOR: GPIO0 (NodeMCU - D3)
 }
 
