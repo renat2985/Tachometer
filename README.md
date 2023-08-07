@@ -39,4 +39,3 @@ If you like this project, you can give me a cup of coffee :coffee:
 #### PayPal
 
 - [https://www.paypal.me/RKevrels](https://www.paypal.me/RKevrels/5)
-![alt text](https://raw.githubusercontent.com/renat2985/Tachometer/master/IMG.jpg)
