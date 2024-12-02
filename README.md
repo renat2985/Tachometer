@@ -15,6 +15,8 @@
     Flash Frequency: 40Mhz
     Upload Speed: 921600
 
+    Address: 0x00000
+
 ### You can download the bin file here: [Tachometer.ino.generic.bin](https://github.com/renat2985/Tachometer/raw/master/Tachometer.ino.generic.bin)
 
 ### NodeMCU Flasher
